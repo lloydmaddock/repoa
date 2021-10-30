@@ -1,3 +1,4 @@
 Initial text
 Changes Text
 More changes but on a branch this time.
+Deliberate Conflict on merge branch
