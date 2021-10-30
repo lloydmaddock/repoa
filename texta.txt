@@ -4,3 +4,4 @@ More changes but on a branch this time.
 Changes on the second branch.
 Deliberate Conflict on merge branch
 Three Ahead
+Branch 2
