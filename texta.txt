@@ -5,3 +5,4 @@ Changes on the second branch.
 Deliberate Conflict on merge branch
 Three Ahead
 Branch 2
+Now forked.
